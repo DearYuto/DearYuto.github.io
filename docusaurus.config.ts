@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Frontend developer',
   favicon: 'img/favicon.ico',
 
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
 
   // Set the production url of your site here
   url: 'https://dearyuto.github.io/',
