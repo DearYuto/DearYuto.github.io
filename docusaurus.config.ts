@@ -59,6 +59,7 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
+
     navbar: {
       title: '',
       logo: {
@@ -112,7 +113,7 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} REASON, Inc. Built with Docusaurus.`,
     },
     prism: {
-      theme: prismThemes.github,
+      theme: prismThemes.nightOwlLight,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,

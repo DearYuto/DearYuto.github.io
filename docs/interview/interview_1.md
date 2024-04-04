@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # 서버 컴포넌트, 클라이언트 컴포넌트는 언제 사용할까요?
