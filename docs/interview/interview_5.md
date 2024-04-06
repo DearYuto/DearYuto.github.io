@@ -18,7 +18,7 @@ position이 static(기본 값)외에 `relative(현재 자기 자신 위치를 �
 
 예를 들어 아래 이미지의 첫 번째 카드 묶음을 보면, 임의로 하트 카드를 margin 속성을 사용하여 별 카드 위로 배치한 경우를 보면 알 수 있어요.
 
-![z-index 사용 전 예시](/img/z-index_0.png)
+![z-index 사용 전 예시](/img/zIndex_0.png)
 
 `첫 번째 카드 묶음`은 `하트 카드`에 margin을 넣어 겹쳐진 상태로
 position이 `모두 static`인 경우에요.
@@ -57,7 +57,7 @@ position이 `static`인 경우 z-index 속성이 0(auto)으로 고정되므로 z
 <div style="z-index:10" class="box box2">♥</div>
 ```
 
-![z-index 적용 범위 예시](/img/z-index_1.svg)
+![z-index 적용 범위 예시](/img/zIndex_1.svg)
 
 ---
 
